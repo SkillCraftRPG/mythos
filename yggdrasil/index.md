@@ -2,18 +2,18 @@
 
 La cosmologie nordique parle généralement de **neuf mondes**, mais les sources ne donnent pas une liste unique et parfaitement cohérente. Dans cette version à dix mondes, **Nidavellir et Svartalfheim sont séparés**, tandis que **Helheim est distingué de Niflheim**.
 
-| Monde            | Court résumé                                                                                                                                                                                |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Midgard**      | Le monde des humains, situé au centre du cosmos et protégé des géants. Il est relié à Asgard par le pont arc-en-ciel **Bifröst**.                                                           |
-| **Nidavellir**   | Le royaume souterrain des **nains**, maîtres forgerons et artisans. Ils y fabriquent des objets divins comme Mjölnir, Gungnir et Draupnir.                                                  |
-| **Alfheim**      | Le domaine des **elfes lumineux**, êtres associés à la beauté, à la lumière et à la fertilité. Il est gouverné ou reçu comme demeure par le dieu **Freyr**.                                 |
-| **Svartalfheim** | Le royaume des **elfes noirs** ou _svartálfar_. Les sources les distinguent mal des nains, ce qui explique pourquoi Svartalfheim et Nidavellir sont souvent considérés comme un seul monde. |
-| **Jotunheim**    | Le territoire sauvage des **Jötnar**, souvent appelés géants. Ils représentent les forces chaotiques de la nature et sont tantôt ennemis, tantôt alliés ou parents des dieux.               |
-| **Vanaheim**     | La demeure des **Vanir**, dieux liés à la fertilité, à la richesse, à la mer et à la magie. Freyr, Freyja et Njörd sont issus de ce peuple divin.                                           |
-| **Muspellheim**  | Le monde primordial du **feu**, de la chaleur et de la destruction. Il est habité par les géants de feu et dominé par **Surtr**, qui incendiera le monde au Ragnarök.                       |
-| **Niflheim**     | Le monde primordial du **froid, de la brume et de la glace**. Ses eaux glacées participent à la création du monde lorsqu’elles rencontrent la chaleur de Muspellheim.                       |
-| **Asgard**       | Le royaume des **Ases**, notamment Odin, Thor, Frigg et Baldr. Il contient plusieurs domaines divins, dont le Valhalla, et constitue le principal centre du pouvoir des dieux.              |
-| **Helheim**      | Le royaume des morts gouverné par la déesse **Hel**. Il accueille surtout ceux qui meurent de maladie ou de vieillesse et n’est pas nécessairement un lieu de punition.                     |
+| Monde                             | Court résumé                                                                                                                                                                                |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Midgard](./Midgard.md)           | Le monde des humains, situé au centre du cosmos et protégé des géants. Il est relié à Asgard par le pont arc-en-ciel **Bifröst**.                                                           |
+| [Nidavellir](./Nidavellir.md)     | Le royaume souterrain des **nains**, maîtres forgerons et artisans. Ils y fabriquent des objets divins comme Mjölnir, Gungnir et Draupnir.                                                  |
+| [Alfheim](./Alfheim.md)           | Le domaine des **elfes lumineux**, êtres associés à la beauté, à la lumière et à la fertilité. Il est gouverné ou reçu comme demeure par le dieu **Freyr**.                                 |
+| [Svartalfheim](./Svartalfheim.md) | Le royaume des **elfes noirs** ou _svartálfar_. Les sources les distinguent mal des nains, ce qui explique pourquoi Svartalfheim et Nidavellir sont souvent considérés comme un seul monde. |
+| [Jotunheim](./Jotunheim.md)       | Le territoire sauvage des **Jötnar**, souvent appelés géants. Ils représentent les forces chaotiques de la nature et sont tantôt ennemis, tantôt alliés ou parents des dieux.               |
+| [Vanaheim](./Vanaheim.md)         | La demeure des **Vanir**, dieux liés à la fertilité, à la richesse, à la mer et à la magie. Freyr, Freyja et Njörd sont issus de ce peuple divin.                                           |
+| [Muspellheim](./Muspellheim.md)   | Le monde primordial du **feu**, de la chaleur et de la destruction. Il est habité par les géants de feu et dominé par **Surtr**, qui incendiera le monde au Ragnarök.                       |
+| [Niflheim](./Niflheim.md)         | Le monde primordial du **froid, de la brume et de la glace**. Ses eaux glacées participent à la création du monde lorsqu’elles rencontrent la chaleur de Muspellheim.                       |
+| [Asgard](./Asgard.md)             | Le royaume des **Ases**, notamment Odin, Thor, Frigg et Baldr. Il contient plusieurs domaines divins, dont le Valhalla, et constitue le principal centre du pouvoir des dieux.              |
+| [Helheim](./Helheim.md)           | Le royaume des morts gouverné par la déesse **Hel**. Il accueille surtout ceux qui meurent de maladie ou de vieillesse et n’est pas nécessairement un lieu de punition.                     |
 
 ## Ambiguïtés importantes
 

@@ -1,0 +1,36 @@
+# Asgard
+
+[![Asgard: The Realm of the Norse Gods | OTHRAVAR - Norse Mythology Encyclopedia](https://images.openai.com/static-rsc-4/nJfghS4k8rir4z8Vaqiy6YxSKz4fpQfm4l-AILsOzgFvFMYhPD-jZ1z_G7kMmG8jug6JC39Bgr8xMoaGIbhKhe4vKZV1UjrCdqsY8vzIbUEgpkXIB8qrFiyAdQrrb_XHrnp4IhmPg6vOBzT_oF-eWytVwcz6VOrfwuE9aySdrkk?purpose=inline)](https://othravar.com/cosmology/asgard?utm_source=chatgpt.com)
+
+**Asgard** — vieux norrois _Ásgarðr_, « enceinte des Ases » — est le monde des **Ases**, le peuple divin auquel appartiennent notamment Odin, Thor, Frigg, Týr et Baldr. Dans ton univers, il constitue le principal centre politique, militaire et spirituel des dieux. Il contient plusieurs domaines divins, dont le **Valhalla**, sans être lui-même un royaume exclusivement consacré aux morts. ([GitHub][1])
+
+Les sources nordiques ne décrivent pas Asgard comme une métropole uniforme possédant une géographie parfaitement définie. Il apparaît plutôt comme une **enceinte divine regroupant plusieurs domaines, palais, champs et salles**, parfois située au centre du cosmos et parfois décrite comme appartenant au ciel. Cette ambiguïté permet de représenter Asgard comme un monde complet dont la capitale sacrée porte également le nom d’Asgard. ([Wikisource][2])
+
+Au centre de cette capitale se trouve **Iðavöllr**, le champ où les dieux se réunissent pour établir l’ordre du monde, rendre leurs jugements et prendre conseil. Ils y construisent **Gladsheim**, salle contenant leurs sièges, ainsi que **Vingólf**, sanctuaire associé aux déesses. Les textes mentionnent aussi de nombreuses résidences distinctes : **Valaskjálf**, palais d’Odin contenant le trône Hliðskjálf; **Breiðablik**, demeure lumineuse de Baldr; **Glitnir**, tribunal de Forseti; **Bilskirnir**, immense résidence de Thor; et **Himinbjörg**, forteresse de Heimdall. Asgard ressemble donc davantage à une fédération de domaines divins qu’au palais personnel d’un seul souverain. ([Wikisource][2])
+
+Dans ton univers, son paysage pourrait être composé de **hautes plaines, de montagnes lumineuses, de vallées cultivées et de citadelles monumentales**, chaque territoire reflétant la nature de la divinité qui le gouverne. Les domaines d’Odin seraient consacrés à la connaissance, à la guerre et aux morts héroïques; ceux de Thor protégeraient les frontières; ceux de Baldr incarneraient la lumière et la pureté; tandis que les salles de Forseti accueilleraient les arbitrages entre dieux, peuples et mondes. Cette organisation ferait d’Asgard une véritable civilisation divine, avec ses lois, ses alliances, ses sanctuaires et ses rivalités internes.
+
+Asgard est relié à Midgard par **Bifröst**, pont brillant que les humains perçoivent comme un arc-en-ciel. Son extrémité céleste est surveillée depuis Himinbjörg par **Heimdall**, dont la fonction est d’empêcher les géants et les autres puissances hostiles d’entrer librement dans le royaume. Asgard possède également une puissante enceinte construite pour résister aux Jötnar. Ses fortifications expriment une idée essentielle : même les dieux vivent dans un cosmos dangereux et doivent défendre l’ordre qu’ils ont établi. ([Wikisource][2])
+
+Le pouvoir d’Asgard repose principalement sur les **assemblées, les serments et les alliances**. Odin en est la figure dominante, mais il ne gouverne pas nécessairement comme un monarque absolu. Les dieux se réunissent, délibèrent et rendent collectivement des décisions. La paix conclue avec les Vanir et l’intégration de Njörd, Freyr et Freyja montrent aussi qu’Asgard peut absorber des divinités étrangères et devenir le centre d’un ordre cosmique plus vaste que le seul peuple des Ases. ([Wikisource][2])
+
+Asgard possède aussi une fonction militaire. Le **Valhalla** accueille les Einherjar choisis par Odin, qui combattent et festoient en attendant le Ragnarök. **Fólkvangr**, domaine de Freyja, est également associé à une partie des guerriers tombés, bien que sa localisation précise soit moins certaine. Ces lieux ne signifient pas que tous les morts gagnent Asgard : la plupart rejoignent Hel ou d’autres formes d’existence posthume. Asgard reçoit essentiellement des morts sélectionnés pour une fonction divine ou héroïque. ([GitHub][3])
+
+Malgré ses murailles et la puissance de ses habitants, Asgard n’est pas éternellement invulnérable. Au **Ragnarök**, Bifröst se brise sous l’avancée des forces de Muspell, les anciennes défenses deviennent inutiles et l’ordre établi par les Ases s’effondre. Asgard représente ainsi non seulement le pouvoir divin, mais aussi sa fragilité : aucune fortification, aucune loi et aucune dynastie ne peut préserver indéfiniment le monde contre les cycles du cosmos. ([Wikisource][2])
+
+## Correspondances mythologiques
+
+- **Mont Olympe — mythologie grecque :** l’Olympe constitue le parallèle le plus direct. Comme Asgard, il accueille une assemblée de divinités gouvernée par une figure dominante, contient plusieurs palais et sert de lieu de conseil, de festin et d’observation du monde humain. Les deux sont des centres politiques divins plutôt que des paradis destinés à la majorité des morts. Asgard est toutefois plus clairement fortifié et engagé dans une guerre cosmique permanente contre des peuples extérieurs. ([Theoi][4])
+
+- **Takamagahara — mythologie japonaise :** la « Haute Plaine du Ciel » est le domaine supérieur des kami célestes, présidé par Amaterasu et distinct du monde humain comme du monde inférieur. Comme Asgard, il constitue la patrie et le centre de gouvernement d’un groupe de divinités qui intervient directement dans l’organisation du monde terrestre. ([國學院大學デジタルミュージアム][5])
+
+- **Mont Méru et royaumes des Devas — traditions indiennes :** le Méru forme le centre vertical du cosmos et la demeure de plusieurs puissances divines. Il rappelle Asgard par sa position élevée, son éclat et son rôle de centre cosmique. Les mondes divins indiens appartiennent toutefois au cycle du _saṃsāra_ et peuvent servir de renaissances temporaires, tandis qu’Asgard est principalement le territoire natal et politique des Ases. ([The Metropolitan Museum of Art][6])
+
+Ainsi, **Asgard représente le monde de l’ordre divin organisé** : une alliance de palais et de domaines gouvernés par les Ases, protégée par des murailles et par Bifröst, où sont établies les lois du cosmos et préparée la défense des mondes. Il n’est ni un paradis universel ni un royaume parfaitement pacifique, mais une capitale sacrée dont la puissance repose sur l’autorité, les serments, la connaissance et la guerre.
+
+[1]: https://raw.githubusercontent.com/SkillCraftRPG/mythos/main/yggdrasil/index.md 'raw.githubusercontent.com'
+[2]: https://en.wikisource.org/wiki/The_Prose_Edda_%281916_translation_by_Arthur_Gilchrist_Brodeur%29/Gylfaginning 'The Prose Edda (1916 translation by Arthur Gilchrist Brodeur)/Gylfaginning - Wikisource, the free online library'
+[3]: https://raw.githubusercontent.com/SkillCraftRPG/mythos/main/afterlife/Nordique.md 'raw.githubusercontent.com'
+[4]: https://www.theoi.com/Kosmos/Olympos.html?utm_source=chatgpt.com 'OLYMPUS (Olympos) - Home of the Gods ...'
+[5]: https://d-museum.kokugakuin.ac.jp/eos/detail/?id=8646&utm_source=chatgpt.com 'Takama no hara'
+[6]: https://www.metmuseum.org/essays/jain-manuscript-painting?utm_source=chatgpt.com 'Jain Manuscript Painting'
