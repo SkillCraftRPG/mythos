@@ -11,7 +11,7 @@ Ils peuvent néanmoins choisir de recommencer une vie mortelle. Pour cela, leur 
 - leurs souvenirs personnels sont effacés;
 - leurs attachements et pouvoirs sont abandonnés;
 - leur âme retrouve un état comparable à celui d’une âme nouvellement créée;
-- un Halcyon la transporte jusqu’à une naissance appropriée.
+- un [Halcyon](./spheres-de-halcyon.md) la transporte jusqu’à une naissance appropriée.
 
 Cette réincarnation constitue donc un véritable sacrifice. L’Exalté ne revient pas simplement vivre une nouvelle aventure avec tous ses souvenirs : il renonce volontairement à son identité éternelle pour retrouver l’incertitude de la mortalité.
 
