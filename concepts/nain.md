@@ -6,7 +6,7 @@ Ils apparurent durant l’âge des [Géants](./geant.md), lorsque la puissance d
 
 Sous la domination des Géants, les Nains furent mineurs, architectes, forgerons, gardiens de trésors et fabricants d’artéfacts. Selon les territoires, ils servirent les Géants, négocièrent avec eux ou gouvernèrent déjà leurs propres cités. Lors de la guerre entre les Géants et les jeunes dieux, les royaumes nains se divisèrent : certains restèrent fidèles aux anciens souverains, d’autres forgèrent des armes pour les dieux, tandis que plusieurs cherchèrent à préserver leur indépendance.
 
-Après l’exil des Géants, les Nains demeurèrent dans les profondeurs et héritèrent de [Nidatal](../mondes/nidatal.md). Ils y établirent sept royaumes souterrains, chacun associé à l’un des sept métaux alchimiques :
+Après l’exil des Géants, les Nains demeurèrent dans les profondeurs et héritèrent de [Nidhaal](../mondes/nidhaal.md). Ils y établirent sept royaumes souterrains, chacun associé à l’un des sept métaux alchimiques :
 
 - fer;
 - cuivre;
@@ -16,13 +16,13 @@ Après l’exil des Géants, les Nains demeurèrent dans les profondeurs et hér
 - plomb;
 - argent.
 
-Ces royaumes sont disposés parallèlement aux sept régions de [Limgard](../mondes/limgard.md). Chaque royaume de Nidatal se trouve sous une région de la surface et partage avec elle le même métal symbolique. Le [Dragon](./dragon.md) qui domine le ciel d’une région de Limgard est donc lié au même métal que le royaume nain situé sous cette région.
+Ces royaumes sont disposés parallèlement aux sept régions de [Limgard](../mondes/limgard.md). Chaque royaume de Nidhaal se trouve sous une région de la surface et partage avec elle le même métal symbolique. Le [Dragon](./dragon.md) qui domine le ciel d’une région de Limgard est donc lié au même métal que le royaume nain situé sous cette région.
 
 Cette organisation crée une correspondance verticale entre les deux mondes :
 
 > **Au-dessus, le Dragon exprime le métal sous une forme céleste, climatique et vivante; au-dessous, les Nains l’extraient, le façonnent et en révèlent la permanence.**
 
-Les Nains gouvernent Nidatal par l’intermédiaire de leurs sept royaumes, qui peuvent être alliés, rivaux ou culturellement très différents. Chaque royaume possède ses propres traditions métallurgiques, ses lignées, ses secrets de forge et sa manière d’interpréter le métal auquel il est associé.
+Les Nains gouvernent Nidhaal par l’intermédiaire de leurs sept royaumes, qui peuvent être alliés, rivaux ou culturellement très différents. Chaque royaume possède ses propres traditions métallurgiques, ses lignées, ses secrets de forge et sa manière d’interpréter le métal auquel il est associé.
 
 Leur relation avec les **Dragons** est fondamentalement conflictuelle. Les Nains incarnent la profondeur, la stabilité et la maîtrise de la matière, tandis que les Dragons représentent la hauteur, le mouvement et les forces du ciel. Leur rivalité se concentre particulièrement autour des montagnes : les Nains en revendiquent les racines, les cavernes et les filons; les Dragons en revendiquent les sommets, les vents et les cieux.
 
@@ -30,9 +30,9 @@ Cette rivalité n’est toutefois pas une guerre absolue. Les deux peuples ont p
 
 Les Nains entretiennent également une relation ambiguë avec les [dieux](./dieu.md). Certains panthéons leur doivent leurs armes, leurs palais ou leurs instruments de pouvoir, mais les Nains n’oublient pas que les dieux ont vaincu et exilé les anciens maîtres de Limgard. Ils acceptent les pactes divins sans reconnaître nécessairement une autorité absolue.
 
-Ils considèrent enfin Nidatal comme leur héritage légitime. Les dieux ont conquis Limgard, les Géants l’ont perdue, les Dragons ont reçu ses cieux, mais les Nains peuvent affirmer une continuité plus ancienne :
+Ils considèrent enfin Nidhaal comme leur héritage légitime. Les dieux ont conquis Limgard, les Géants l’ont perdue, les Dragons ont reçu ses cieux, mais les Nains peuvent affirmer une continuité plus ancienne :
 
-> **Ils n’ont pas conquis les profondeurs de Nidatal. Ils ne les ont jamais quittées.**
+> **Ils n’ont pas conquis les profondeurs de Nidhaal. Ils ne les ont jamais quittées.**
 
 ## Artifices
 
@@ -41,7 +41,7 @@ Les Nains sont également réputés pour leurs **surprises, leurs ruses et leurs
 Sans emprunter les voies normalement associées aux [Halcyons](./spheres-de-halcyon.md), ils peuvent voyager instantanément :
 
 - entre deux lieux éloignés de Limgard;
-- entre Limgard et les royaumes correspondants de Nidatal;
+- entre Limgard et les royaumes correspondants de Nidhaal;
 - d’un royaume souterrain à un autre;
 - et même, grâce à leurs ouvrages les plus secrets, entre différentes sphères de l’Outretombe.
 
@@ -49,7 +49,7 @@ Cette capacité ne relève pas d’un pouvoir inné. Elle repose sur des **porte
 
 Les sept métaux jouent probablement un rôle central dans ces déplacements. Deux lieux accordés au même métal peuvent entrer en résonance, comme si leurs distances physiques cessaient momentanément d’exister. Les plus grands maîtres nains savent combiner plusieurs métaux afin de franchir les limites séparant les sphères.
 
-Ce savoir constitue l’un des secrets les mieux gardés de Nidatal. Il permet aux Nains d’apparaître là où personne ne les attend, d’approvisionner leurs royaumes malgré les sièges et de contourner les routes surveillées par les dieux, les Dragons ou les Halcyons.
+Ce savoir constitue l’un des secrets les mieux gardés de Nidhaal. Il permet aux Nains d’apparaître là où personne ne les attend, d’approvisionner leurs royaumes malgré les sièges et de contourner les routes surveillées par les dieux, les Dragons ou les Halcyons.
 
 Cette maîtrise inquiète naturellement les autres puissances :
 

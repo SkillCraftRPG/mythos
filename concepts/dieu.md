@@ -26,7 +26,7 @@ Les [Halcyons](./spheres-de-halcyon.md) obéissent à une fonction cosmique plus
 
 De même, les [Dragons](./dragon.md) furent engendrés directement par Xaos après l’exil des Géants. Ils protègent les cieux de Limgard et rappellent aux Dieux que leur autorité institutionnelle ne constitue pas une propriété absolue du monde.
 
-Les [Nains](./nain.md), quant à eux, gouvernent les sept royaumes de [Nidatal](../mondes/nidatal.md). Ils négocient avec les Dieux, fabriquent leurs artéfacts et participent parfois à leurs guerres, mais conservent leur indépendance. Leur capacité à voyager entre les sphères sans utiliser les voies des Halcyons représente un pouvoir que les Dieux cherchent à comprendre, réglementer ou contrôler.
+Les [Nains](./nain.md), quant à eux, gouvernent les sept royaumes de [Nidhaal](../mondes/nidhaal.md). Ils négocient avec les Dieux, fabriquent leurs artéfacts et participent parfois à leurs guerres, mais conservent leur indépendance. Leur capacité à voyager entre les sphères sans utiliser les voies des Halcyons représente un pouvoir que les Dieux cherchent à comprendre, réglementer ou contrôler.
 
 ## Relations avec les mortels
 

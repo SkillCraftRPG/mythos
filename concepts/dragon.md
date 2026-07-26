@@ -10,7 +10,7 @@
 | Indigo  | Plomb   | Marécages et tourbières         | Ligne d’acide               | Le plomb de Saturne évoque la lourdeur, la corruption et la décomposition; le Dragon indigo projette un jet concentré de matière corrosive née des eaux stagnantes. |
 | Violet  | Argent  | Montagnes froides               | Cône de froid               | L’argent lunaire rappelle la neige, le givre et les reflets pâles des sommets; son souffle se diffuse comme un blizzard ou un brouillard glacial.                   |
 
-Les **Dragons** sont les gardiens célestes de [Limgard](../mondes/limgard.md) et les contrepoids naturels des [Nains](./nain.md) de [Nidatal](../mondes/nidatal.md). Ils apparurent après l’exil des [Géants](./geant.md), lorsque leur départ laissa les cieux de la sphère sans puissance souveraine. Les Nains, déjà établis dans les profondeurs, héritèrent alors des fondations de l’ancien monde et commencèrent à étendre leur influence sur la pierre, les métaux et les canaux souterrains.
+Les **Dragons** sont les gardiens célestes de [Limgard](../mondes/limgard.md) et les contrepoids naturels des [Nains](./nain.md) de [Nidhaal](../mondes/nidhaal.md). Ils apparurent après l’exil des [Géants](./geant.md), lorsque leur départ laissa les cieux de la sphère sans puissance souveraine. Les Nains, déjà établis dans les profondeurs, héritèrent alors des fondations de l’ancien monde et commencèrent à étendre leur influence sur la pierre, les métaux et les canaux souterrains.
 
 Pour empêcher qu’une seule civilisation ne s’approprie entièrement Limgard, **[Xaos](./xaos.md) engendra les Dragons à partir de son souffle et des eaux de la mer astrale**. Ils ne sont donc ni les descendants des Géants ni les créations des [dieux](./dieu.md) actuels. Bien qu’ils soient apparus tardivement dans l’histoire cosmique, leur essence provient directement du premier être. Ils ne constituent pas véritablement une cinquième génération divine : ils sont une **réponse de Xaos à un déséquilibre du monde**.
 
@@ -30,7 +30,7 @@ Chacune des **sept régions de Limgard** est associée à l’une de ces lignée
 
 Les Géants dominaient autrefois Limgard dans toute sa verticalité. Ils élevaient des montagnes, détournaient les fleuves et occupaient autant les profondeurs que les sommets. Leur exil brisa cette unité.
 
-Les Nains héritèrent du monde inférieur et transformèrent ses fondations en **Nidatal**, tandis que les Dragons reçurent la maîtrise des hauteurs. Ils devinrent les gardiens :
+Les Nains héritèrent du monde inférieur et transformèrent ses fondations en **Nidhaal**, tandis que les Dragons reçurent la maîtrise des hauteurs. Ils devinrent les gardiens :
 
 - des vents et des grands courants atmosphériques;
 - des pluies, tempêtes et variations climatiques;

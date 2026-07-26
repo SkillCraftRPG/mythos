@@ -6,7 +6,7 @@ De l’union, du conflit ou de la fragmentation de ces forces naquirent les [Gé
 
 Avec le temps apparut la quatrième génération : les [dieux](./dieu.md) actuels, parmi lesquels les Ases, les Vanes, les Olympiens et les autres panthéons. Plus jeunes et moins colossaux, ils maîtrisaient toutefois mieux la loi, les alliances, la civilisation et l’organisation des âmes. Les Géants refusèrent de céder leur autorité, déclenchant une guerre mêlant la **Titanomachie grecque** aux conflits entre les **Ases et les Jötnar**. Certains Géants combattirent les jeunes dieux, tandis que d’autres les épousèrent, les conseillèrent ou se rangèrent à leurs côtés.
 
-Après leur victoire, les dieux transformèrent Limgard en territoire neutre consacré à l’arrivée et au jugement des morts. Les Géants vaincus furent principalement exilés dans **Jotunheim**, monde sauvage où ils fondèrent de nouveaux royaumes. Certains furent emprisonnés dans les profondeurs, d’autres liés à des montagnes, des mers ou des phénomènes naturels, tandis que les lignées alliées conservèrent une place auprès des nouveaux panthéons.
+Après leur victoire, les dieux transformèrent Limgard en territoire neutre consacré à l’arrivée et au jugement des morts. Les Géants vaincus furent principalement exilés dans [Géoria](../mondes/georia.md), monde sauvage où ils fondèrent de nouveaux royaumes. Certains furent emprisonnés dans les profondeurs, d’autres liés à des montagnes, des mers ou des phénomènes naturels, tandis que les lignées alliées conservèrent une place auprès des nouveaux panthéons.
 
 La succession des générations représente ainsi une progression :
 
