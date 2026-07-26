@@ -4,7 +4,7 @@
 | ----------- | ---------- | --------- |
 | Air         | Aéro       | Aérion    |
 | Dieux       | Théo       | Théogard  |
-| Eau         | Hydro      |           |
+| Eau         | Hydro      | Hydrion   |
 | Feu         | Ignis/Pyro | Pyrgnis   |
 | Lumière     | Lumo       |           |
 | Morts       | Asphodèle  | Asphéodal |
