@@ -6,7 +6,7 @@
 | Dieux       | Théo       | Théogard  |
 | Eau         | Hydro      |           |
 | Feu         | Ignis/Pyro | Pyrgnis   |
-| Lumière     |            |           |
+| Lumière     | Lumo       |           |
 | Morts       | Asphodèle  | Asphéodal |
 | Obscurité   | Umbro      |           |
 | Profondeurs | Nidavellir | Nidhaal   |
