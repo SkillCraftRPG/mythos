@@ -18,6 +18,8 @@ Les âmes qui parviennent à Limgard sont réparties entre plusieurs royaumes et
 
 ### Est
 
+Autour de l’Inde centrale, les sept royaumes draconiques se succèdent dans le sens horaire selon l’ordre **Violet, Orange, Indigo, Rouge, Bleu, Jaune et Vert**, Indigo rejoignant le sous-continent par ses marécages, deltas et autres zones humides orientales.
+
 | Royaume | Civilisation(s)       |
 | ------- | --------------------- |
 | Bleu    | Afrique, Moyen-Orient |
